@@ -4,7 +4,9 @@
 An interactive Excel Sales Dashboard featuring a clean, hand-drawn sketch-style layout. This dashboard provides key insights into total revenue, product quantities sold, region-wise distribution, and salesman performance.
 
 
-"C:\Users\HP\OneDrive\Documents\My Project 3 Dashboard\data dashboard.jfif"
+<img width="444" height="450" alt="sales data" src="https://github.com/user-attachments/assets/c558629f-760f-4c16-b73d-b33d75a6efed" />
+<img width="1024" height="497" alt="watermarked_img_18096239518339899825" src="https://github.com/user-attachments/assets/91ca45ef-b0b8-4562-95a4-14c401b7ee5b" />
+
 
 
 ---
@@ -27,6 +29,4 @@ An interactive Excel Sales Dashboard featuring a clean, hand-drawn sketch-style 
 * **Visual Style:** Pencil / Hand-drawn Wireframe Style
 * **Data Features:** Pivot Tables, Slicers (Date, Region, Item), Dynamic Charts, and Interactive Navigation Buttons
 
----
 
-## 📂 Repository Structure
